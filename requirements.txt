@@ -1,0 +1,2 @@
+httplib2==0.20.4
+pyparsing==3.0.9
